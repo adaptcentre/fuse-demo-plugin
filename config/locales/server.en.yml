@@ -1,13 +1,3 @@
 en:
   site_settings:
-    covidfuse_enabled: "enable plugin?"
-    covidfuse_deadline: "NOV DD YYYY HH:MM:SS GMT+0100"
-    covidfuse_cat_economy: "id"
-    covidfuse_cat_health: "id"
-    covidfuse_cat_social: "id"
-    covidfuse_cat_environment: "id"
-    covidfuse_cat_education: "id"
-    covidfuse_cat_technology: "id"
-    covidfuse_meta_topic: "id"
-    covidfuse_api_key: "key"
-    covidfuse_api_user: "user"
+    fuse_enabled: "enable plugin?"
