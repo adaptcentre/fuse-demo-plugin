@@ -1,0 +1,34 @@
+plugins:
+  covidfuse_enabled:
+    default: true
+    client: true
+  covidfuse_deadline:
+    default: "NOV 11 2020 15:00:00 GMT+0100"
+    client: true
+  covidfuse_cat_economy:
+    default: "1"
+    client: true
+  covidfuse_cat_health:
+    default: "1"
+    client: true
+  covidfuse_cat_social:
+    default: "1"
+    client: true
+  covidfuse_cat_environment:
+    default: "1"
+    client: true
+  covidfuse_cat_education:
+    default: "1"
+    client: true
+  covidfuse_cat_technology:
+    default: "1"
+    client: true
+  covidfuse_meta_topic:
+    default: "22"
+    client: true
+  covidfuse_api_key: 
+    default: "22"
+    client: true
+  covidfuse_api_user: 
+    default: "ivan"
+    client: true
