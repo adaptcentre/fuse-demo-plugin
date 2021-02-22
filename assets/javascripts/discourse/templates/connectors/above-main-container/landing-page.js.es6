@@ -32,8 +32,9 @@ function initializePlugin(api, component, args) {
 
 
 // GLOBAL VARS
+let aDayInMs = 86400000;
 
-const COUNTDOWNDATE = new Date(new Date().getTime() + (86400000 * 2));
+const COUNTDOWNDATE = new Date(new Date().getTime() + (aDayInMs * 90));
 let clockTimeout = null;
 
 //
