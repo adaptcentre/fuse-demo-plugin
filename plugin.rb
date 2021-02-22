@@ -1,5 +1,5 @@
 # name: fuse-demo
-# about: custom landing page for discourse platform
+# about: custom landing page for fuse platform
 # version: 0.0.1
 # authors: DLAB Team dlab@adaptcentre.ie
 
